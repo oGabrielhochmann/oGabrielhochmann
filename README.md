@@ -9,18 +9,13 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 
+
+
+
+
 <!--END_SECTION:activity-->
 
 ---
-
----
-
-### :zap: Rastreamento Diário
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 <!--
 **oGabrielhochmann/oGabrielhochmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

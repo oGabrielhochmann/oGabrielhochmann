@@ -1,9 +1,12 @@
-<h1 align="center">Hello World 👋, I'm Gabriel Hochmann</h1>
-<h3 align="center">Computer Science student passionate about software development and new technologies.</h3>
+# Hello World 👋, I'm Gabriel Hochmann
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogabrielhochmann" alt="ogabrielhochmann" /></a> </p> -->
+[![Instagram Follow](https://img.shields.io/badge/Follow-%40gabrielhochmann-833AB4?style=for-the-badge&logo=instagram)](https://instagram.com/gabrielhochmann)
+
+## Computer Science student, gamer, otaku, reader, always exploring new challenges!
+
 ---
-### 📫 Connect with me:
+
+### Connect with me:
 
 [![LinkedIn - Light](./img/linkedin-light.svg)](https://linkedin.com/in/gabrielhochmann#gh-light-mode-only "LinkedIn Profile")
 [![LinkedIn - Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/gabrielhochmann#gh-dark-mode-only "LinkedIn Profile")
@@ -14,7 +17,7 @@
 ---
 
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 

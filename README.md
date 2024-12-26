@@ -1,21 +1,15 @@
-<h1 align="center">Hi 👋, I'm Gabriel Hochmann</h1>
+<h1 align="center">Hello World 👋, I'm Gabriel Hochmann</h1>
 <h3 align="center">Computer Science student passionate about software development and new technologies.</h3>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogabrielhochmann" alt="ogabrielhochmann" /></a> </p> -->
-
 ---
+### 📫 Connect with me:
 
-### 📫 How to reach and connect with me:
-You can email me at **contact@gabrielhochmann.com** or connect with me on [LinkedIn](https://linkedin.com/in/gabrielhochmann) or [Instagram](https://instagram.com/gabrielhochmann).
-
-<p align="center">
-  <a href="https://linkedin.com/in/gabrielhochmann" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielhochmann" height="30" width="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://instagram.com/gabrielhochmann" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielhochmann" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn - Light](./img/linkedin-light.svg)](https://linkedin.com/in/gabrielhochmann#gh-light-mode-only "LinkedIn Profile")
+[![LinkedIn - Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/gabrielhochmann#gh-dark-mode-only "LinkedIn Profile")
+&nbsp;&nbsp;
+[![Instagram - Light](./img/instagram-light.svg)](https://instagram.com/gabrielhochmann#gh-light-mode-only "Instagram Profile")
+[![Instagram - Dark](./img/instagram-dark.svg)](https://instagram.com/gabrielhochmann#gh-dark-mode-only "Instagram Profile")
 
 ---
 

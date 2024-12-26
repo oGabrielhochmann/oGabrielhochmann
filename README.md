@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+[![Gabriel's GitHub stats](https://github-readme-stats-gabriel-hochmann.vercel.app/api?username=oGabrielhochmann)](https://github.com/oGabrielhochmann/github-readme-stats)
+
+📫 How to reach me:
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 <!--
 **oGabrielhochmann/oGabrielhochmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -106,3 +106,7 @@ You can email me at **contact@gabrielhochmann.com** or connect with me on social
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+[![Snake Gif - Light](https://raw.githubusercontent.com/oGabrielhochmann/oGabrielhochmann/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/oGabrielhochmann/oGabrielhochmann/blob/output/github-contribution-grid-snake.svg)
+[![Snake Gif - Dark](https://raw.githubusercontent.com/oGabrielhochmann/oGabrielhochmann/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/oGabrielhochmann/oGabrielhochmann/blob/output/github-contribution-grid-snake-dark.svg)
+

@@ -1,8 +1,25 @@
 # Hello World 👋, I'm Gabriel Hochmann
 
-<img align="center" alt="Gabriel's GitHub Stats" src="https://github-readme-stats-gabriel-hochmann.vercel.app/api?username=oGabrielhochmann&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=4CAF50&icon_color=00B0FF&bg_color=0D1117&text_color=FFFFFF&border_color=30363D" />
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; padding-right: 200px;">
+      <a href="https://github.com/oGabrielhochmann" target="_blank">
+        <img src="https://github-readme-stats-gabriel-hochmann.vercel.app/api?username=oGabrielhochmann&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=4CAF50&icon_color=00B0FF&bg_color=0D1117&text_color=FFFFFF&border_color=30363D" alt="Gabriel's GitHub Stats">
+      </a>
+    </td>
+    <td style="text-align: right; padding-left: 200px;">
+      <a href="https://github.com/oGabrielhochmann" target="_blank">
+        <img src="img/icon.gif" alt="Ícone" style="height: 180px; border: 2px solid #30363D; border-radius: 10px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Instagram Follow](https://img.shields.io/badge/Follow-%40gabrielhochmann-4CAF50?style=for-the-badge&logo=instagram)](https://instagram.com/gabrielhochmann)
+<p align="left">
+  <a href="https://instagram.com/gabrielhochmann" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-%40gabrielhochmann-4CAF50?style=for-the-badge&logo=instagram" alt="Instagram Follow">
+  </a>
+</p>
 
 ## Computer Science student, gamer, otaku, reader, always exploring new challenges!!
 

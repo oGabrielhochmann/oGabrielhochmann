@@ -4,7 +4,7 @@
   <tr>
     <td style="text-align: left; padding-right: 200px;">
       <a href="https://github.com/oGabrielhochmann" target="_blank">
-        <img src="https://github-readme-stats-gabriel-hochmann.vercel.app/api?username=oGabrielhochmann&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=4CAF50&icon_color=00B0FF&bg_color=0D1117&text_color=FFFFFF&border_color=30363D" alt="Gabriel's GitHub Stats">
+        <img src="https://github-readme-stats-git-master-gabriel-hochmann.vercel.app/api?username=oGabrielhochmann&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=4CAF50&icon_color=00B0FF&bg_color=0D1117&text_color=FFFFFF&border_color=30363D" alt="Gabriel's GitHub Stats">
       </a>
     </td>
     <td style="text-align: right; padding-left: 200px;">

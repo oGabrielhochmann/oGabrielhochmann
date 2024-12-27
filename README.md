@@ -1,8 +1,8 @@
 # Hello World 👋, I'm Gabriel Hochmann
 
-[![Gabriel's GitHub stats](https://github-readme-stats-gabriel-hochmann.vercel.app/api?username=oGabrielhochmann)](https://github.com/oGabrielhochmann/github-readme-stats)
+<img align="center" alt="Gabriel's GitHub Stats" src="https://github-readme-stats-gabriel-hochmann.vercel.app/api?username=oGabrielhochmann&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=4CAF50&icon_color=00B0FF&bg_color=0D1117&text_color=FFFFFF&border_color=30363D" />
 
-[![Instagram Follow](https://img.shields.io/badge/Follow-%40gabrielhochmann-833AB4?style=for-the-badge&logo=instagram)](https://instagram.com/gabrielhochmann)
+[![Instagram Follow](https://img.shields.io/badge/Follow-%40gabrielhochmann-4CAF50?style=for-the-badge&logo=instagram)](https://instagram.com/gabrielhochmann)
 
 ## Computer Science student, gamer, otaku, reader, always exploring new challenges!!
 
@@ -66,13 +66,15 @@ You can email me at **contact@gabrielhochmann.com** or connect with me on social
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogabrielhochmann&" alt="ogabrielhochmann" />
-</p>
-  &nbsp;&nbsp;
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ogabrielhochmann&show_icons=true&locale=en&layout=compact" alt="ogabrielhochmann" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogabrielhochmann&theme=radical&hide_border=true&ring=4CAF50&fire=00B0FF&currStreakLabel=4CAF50" alt="ogabrielhochmann" />
+
+  <!-- Top Languages -->
+  <img alt="Gabriel's Top Languages" src="https://github-readme-stats-gabriel-hochmann.vercel.app/api/top-langs/?username=oGabrielhochmann&layout=compact&title_color=4CAF50&icon_color=00B0FF&bg_color=141321&hide_border=true&text_color=FFFFFF&border_color=30363D&hide=html,css" />
+</div>
+<br />
+
 
 ---
 

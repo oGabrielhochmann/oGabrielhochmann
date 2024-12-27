@@ -21,6 +21,35 @@
   </a>
 </p>
 
+---
+<div align="center">
+  <!-- Collapsible Title -->
+<details>
+  <summary style="font-size: 50px; font-weight: bold; cursor: pointer; color: #4CAF50; padding: 10px;">
+    🐍 Watch the snake eat my commits! (Click to see the magic)
+  </summary>
+
+<!-- Snake Gif for Light and Dark Modes -->
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/oGabrielhochmann/oGabrielhochmann/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/oGabrielhochmann/oGabrielhochmann/output/github-contribution-grid-snake.svg"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/oGabrielhochmann/oGabrielhochmann/output/github-contribution-grid-snake.svg" 
+    alt="GitHub Contribution Snake Animation" 
+    style="background: none; border: none;" 
+  />
+</picture>
+  </details>
+</div>
+
+---
+
 ## Computer Science student, gamer, otaku, reader, always exploring new challenges!!
 
 - 🌱 I'm constantly learning more about programming and new technologies 😄
@@ -83,30 +112,56 @@ You can email me at **contact@gabrielhochmann.com** or connect with me on social
 
 ### 📊 GitHub Stats:
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogabrielhochmann&theme=radical&hide_border=true&ring=4CAF50&fire=00B0FF&currStreakLabel=4CAF50" alt="ogabrielhochmann" />
-
-  <!-- Top Languages -->
-  <img alt="Gabriel's Top Languages" src="https://github-readme-stats-gabriel-hochmann.vercel.app/api/top-langs/?username=oGabrielhochmann&layout=compact&title_color=4CAF50&icon_color=00B0FF&bg_color=141321&hide_border=true&text_color=FFFFFF&border_color=30363D&hide=html,css" />
-</div>
+<table style="width: 100%; text-align: center; border-spacing: 20px;">
+  <tr>
+    <td style="text-align: right; padding-right: 20px;">
+      <!-- Streak Stats -->
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=ogabrielhochmann&theme=radical&hide_border=true&ring=4CAF50&fire=00B0FF&currStreakLabel=4CAF50" 
+        alt="ogabrielhochmann"
+        style="border: 2px solid #30363D; border-radius: 10px;"
+      />
+    </td>
+    <td style="text-align: left; padding-left: 20px;">
+      <!-- Top Languages -->
+      <img 
+        alt="Gabriel's Top Languages" 
+        src="https://github-readme-stats-gabriel-hochmann.vercel.app/api/top-langs/?username=oGabrielhochmann&layout=compact&title_color=4CAF50&icon_color=00B0FF&bg_color=141321&hide_border=true&text_color=FFFFFF&border_color=30363D&hide=html,css" 
+        style="border: 2px solid #30363D; border-radius: 10px;"
+      />
+    </td>
+  </tr>
+</table>
 <br />
 
+<details>
+  <summary style="font-size: 24px; font-weight: bold; cursor: pointer; color: #4CAF50; padding: 10px;">
+    :zap: Recent Activity
+  </summary>
+  
+<div style="padding: 0 20px;">
+  <!--START_SECTION:activity-->
+    
+  <!--END_SECTION:activity-->
+</div>
+  
+</details>
 
 ---
 
 ### 🏆 Profile Views:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ogabrielhochmann&label=Profile%20views&color=0e75b6&style=flat" alt="ogabrielhochmann" />
-</p>
+
+<div align="left" style="margin-top: 10px;">
+  <a href="https://github.com/ogabrielhochmann" target="_blank">
+    <img 
+      src="https://komarev.com/ghpvc/?username=ogabrielhochmann&label=Profile%20Views&color=4CAF50&style=for-the-badge" 
+      alt="Profile Views for ogabrielhochmann" 
+      style="border: 2px solid #30363D; border-radius: 10px; padding: 5px;" 
+    />
+  </a>
+</div>
 
 ---
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
-[![Snake Gif - Light](https://raw.githubusercontent.com/oGabrielhochmann/oGabrielhochmann/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/oGabrielhochmann/oGabrielhochmann/blob/output/github-contribution-grid-snake.svg)
-[![Snake Gif - Dark](https://raw.githubusercontent.com/oGabrielhochmann/oGabrielhochmann/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/oGabrielhochmann/oGabrielhochmann/blob/output/github-contribution-grid-snake-dark.svg)
 
